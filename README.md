@@ -1,2 +1,2 @@
 # trabalho_bd
-trabalhos 1 de banco de dados
+trabalho 1 de banco de dados
